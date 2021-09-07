@@ -585,7 +585,7 @@ main .right .give:hover {
   display: block;
   width: 26.35px;
   height: 26.35px;
-  background: url('../index_files/img.PNG');
+  background: url('img.PNG');
   margin-right: 11px;
   -webkit-animation: loading 1.2s linear infinite;
   animation: loading 1.2s linear infinite;
